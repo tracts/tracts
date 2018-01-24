@@ -1,0 +1,11 @@
+# Build artifacts
+dist
+
+# Dependencies via npm / yarn
+node_modules
+
+# IDE metadata
+.idea
+
+# OS metadata
+.DS_Store
